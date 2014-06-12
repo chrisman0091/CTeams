@@ -1,0 +1,5 @@
+name: CTeams
+version: 0.1
+description: A simple team plugin.
+author: chrisman0091
+main: me.chrisman0091.cteams.Main
